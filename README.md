@@ -17,4 +17,5 @@ Proje için kullanılan bağlantı şemasını aşağıda bulabilirsiniz:
 ![Şema](https://i.ibb.co/N3jgS58/y2wdcm7u.png)
 
 ## Youtube Videosu
-Yakında...
+[![Youtube Videosu](https://img.youtube.com/vi/U7UwwZebQjY/0.jpg)](https://www.youtube.com/watch?v=U7UwwZebQjY)
+
