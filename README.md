@@ -5,7 +5,7 @@ Bu proje, Arduino ve bir buzzer kullanarak Süper Mario oyunundan tanıdık bir 
 Bu projeyi çalıştırmak için aşağıdaki bileşenlere ihtiyacınız olacak:
 •Arduino kartı 1-Adet
 •Buzzer (aktif hoparlör) 1-Adet
-•Jumper kablo Erkek-Erkek 2-Adet
+•Jumper kablo Erkek-Erkek 2-Adet  
 •Breadboard 1-Adet
 
 →Bağlantılar:
@@ -16,3 +16,6 @@ Bağlantıları doğru bir şekilde yaparak, Arduino kartınızın buzzer'ı kon
 
 →Kullanım:
 Proje dosyalarını bu depodan indirin ve Arduino IDE programında açın. Ardından, Kodu arduinoya yükleyin.
+
+Dosyalar:
+Porjeyi .ino olarak indirmek için linke tıklayın.
