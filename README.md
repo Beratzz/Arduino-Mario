@@ -18,4 +18,4 @@ Bağlantıları doğru bir şekilde yaparak, Arduino kartınızın buzzer'ı kon
 Proje dosyalarını bu depodan indirin ve Arduino IDE programında açın. Ardından, Kodu arduinoya yükleyin.
 
 Dosyalar:
-Porjeyi .ino olarak indirmek için linke tıklayın.
+Kodu Görüntülemek İçin [tıklayın.](https://github.com/Beratzz/Ardunio-Mario/blob/main/SuperMarioSong.ino)
