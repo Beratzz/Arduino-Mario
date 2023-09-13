@@ -1,21 +1,20 @@
-→Arduino ile Süper Mario Müziği Çalma:
-•Bu proje, Arduino ve bir buzzer kullanarak Süper Mario oyunundan tanıdık bir müziği çalmanıza olanak tanır.
+# Arduino ile Süper Mario Müziği Çalma
+Bu proje, Arduino ve bir buzzer kullanarak Süper Mario oyununun tanıdık melodisini çalmayı amaçlar.
 
-→Gereksinimler:
-•Bu projeyi çalıştırmak için aşağıdaki bileşenlere ihtiyacınız olacak:
-•Arduino kartı 1-Adet
-•Buzzer (aktif hoparlör) 1-Adet
-•Jumper kablo Erkek-Erkek 2-Adet  
-•Breadboard 1-Adet
+![Arduino](https://i.pinimg.com/originals/de/b7/7e/deb77e798ee6a7f87c7743e1b04bd3a9.jpg)
 
-→Bağlantılar:
-•Buzzer'ı Arduino kartınıza bağlamak için aşağıdaki bağlantıları yapmanız gerekebilir:
-•Buzzer Pozitif (+) Pin -> Arduino 12.Pin
-•Buzzer Negatif (-) Pin -> Arduino GND Pin
-•Bağlantıları doğru bir şekilde yaparak, Arduino kartınızın buzzer'ı kontrol edebilmesini sağlayacaksınız.
+## Gerekli Komponentler
+Bu projeyi gerçekleştirmek için aşağıdaki malzemelere ihtiyacınız olacak:
+- <a href="https://www.robotistan.com/arduino-uno-r3-klon-usb-kablo-hediyeli-usb-chip-ch340?#ins_sr=eyJwcm9kdWN0SWQiOiIxMzk1NiJ9" target="_blank">1-Adet Arduino UNO veya benzeri bir Arduino kartı</a>
+- <a href="https://www.robotistan.com/buzzer" target="_blank">1-Adet Buzzer</a>
+- <a href="https://www.robotistan.com/40-pin-ayrilabilen-erkek-erkek-m-m-jumper-kablo-200-mm" target="_blank">2-Adet Jumper Kablo (Erkek-Erkek)</a>
+- <a href="https://www.robotistan.com/breadboard-2" target="_blank">1-Adet Breadboard</a>
+- <a href="https://www.robotistan.com/adan-bye-usb-kablosu-yazici-kablosu-1?ysclid=lmhs2tu71p370093714" target="_blank">1-Adet A′dan B′ye USB Kablosu</a>
 
-→Kullanım:
-•Proje dosyalarını bu depodan indirin ve Arduino IDE programında açın. Ardından, Kodu arduinoya yükleyin.
+## Bağlantı Şeması
+Proje için kullanılan bağlantı şemasını aşağıda bulabilirsiniz:
 
-→Dosyalar:
-•Kodu Görüntülemek İçin [tıklayın.](https://github.com/Beratzz/Ardunio-Mario/blob/main/SuperMarioSong.ino)
+![Şema](https://i.ibb.co/N3jgS58/y2wdcm7u.png)
+
+## Youtube Videosu
+Yakında...
